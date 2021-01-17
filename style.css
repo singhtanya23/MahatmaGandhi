@@ -2,6 +2,12 @@ h1{
   color: orange ;
   text-align: center ;
   font-weigth: 850;
-  font-size: 120% ;
+  font-size: 240% ;
   font-family :cursive ;
+}
+*{
+  color: blue ;
+  text-align: right ;
+  font-style: italic;
+  font-family: "Gill Sans", sans-serif;
 }
